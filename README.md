@@ -3,10 +3,10 @@
 
 环境与系统包
 -----
-  Win10+Anaconda3+python3.6
-  import face_recognition
-  import cv2
-  import PyQt5
+  Win10+Anaconda3+python3.6  
+  import face_recognition  
+  import cv2  
+  import PyQt5  
 
   
 设计思路

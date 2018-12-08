@@ -22,3 +22,6 @@ import PyQt5
 利用designer构建出界面样式，再添加事件监听  
 
 5.将窗口初始化并显示(ui_start.py)  
+
+运行方式  
+执行ui_start.py
